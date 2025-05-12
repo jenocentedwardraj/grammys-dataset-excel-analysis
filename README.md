@@ -4,6 +4,7 @@ This project presents an exploratory analysis of Grammy Awards data using Micros
 
 ## 📁 Files
 - `Grammys_Project.xlsx`: Excel workbook containing raw data and visual analysis. Data is located in the **Grammys Data** and **Recording Academy Data** worksheet tabs.
+- `.gitignore`: Excludes system files and temporary data from version control.
 
 ## 🧠 Key Insights Explored
 - Awards won by top artists across years
